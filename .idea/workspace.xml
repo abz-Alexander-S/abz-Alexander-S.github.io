@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3427b9dd-ae79-46d8-a87e-1e5e68b8cefd" name="Default Changelist" comment="" />
+    <list default="true" id="3427b9dd-ae79-46d8-a87e-1e5e68b8cefd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App-body/App-body.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App-body/App-body.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App-header/App-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App-header/App-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Form/Form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Form/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shared/Masks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shared/Validators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -76,6 +94,9 @@
       <option name="presentableId" value="Default" />
       <updated>1572205521628</updated>
       <workItem from="1572205524098" duration="2970000" />
+      <workItem from="1572226359401" duration="1026000" />
+      <workItem from="1572227635076" duration="4253000" />
+      <workItem from="1572234913353" duration="9439000" />
     </task>
     <servers />
   </component>
@@ -87,7 +108,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
